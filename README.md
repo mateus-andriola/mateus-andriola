@@ -6,7 +6,7 @@
   NodeJS principalmente usando Typescript:
 
 - **📋 Principais projetos**:
-  - [Finance](https://github.com/mateus-andriola/matan-finance)
+  - [Finance](https://github.com/mateus-andriola/matan_finance)
   - [Youtube Transcript Database](https://github.com/live-transcript-database)
 - **🔧 Simples Contribuições**:
   - [react-native-maps-direction](https://github.com/bramus/react-native-maps-directions):
