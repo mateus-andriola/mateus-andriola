@@ -6,8 +6,8 @@
   NodeJS principalmente usando Typescript:
 
 - **📋 Principais projetos**:
-  - [Deliver Routes](https://github.com/mateus-andriola/APPEntregas)
-  - [reactjs-infinite-carousel](https://github.com/reactjs-infinite-carousel)
+  - [Finance](https://github.com/mateus-andriola/matan-finance)
+  - [Youtube Transcript Database](https://github.com/live-transcript-database)
 - **🔧 Simples Contribuições**:
   - [react-native-maps-direction](https://github.com/bramus/react-native-maps-directions):
     Adicionando tipagem e implementado instruções recebidas da API;
